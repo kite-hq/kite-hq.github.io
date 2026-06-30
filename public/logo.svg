@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="114" fill="#4F5BD5"/>
+  <!-- panels (diagonal pinwheel: white / sky-blue) -->
+  <polygon points="256,104 256,208 168,208" fill="#FFFFFF"/>
+  <polygon points="256,104 256,208 344,208" fill="#AFC0FF"/>
+  <polygon points="168,208 256,208 256,372" fill="#AFC0FF"/>
+  <polygon points="344,208 256,208 256,372" fill="#FFFFFF"/>
+  <!-- spars -->
+  <line x1="256" y1="104" x2="256" y2="372" stroke="#6E7BE0" stroke-width="7"/>
+  <line x1="168" y1="208" x2="344" y2="208" stroke="#6E7BE0" stroke-width="7"/>
+  <!-- outline -->
+  <polygon points="256,104 344,208 256,372 168,208" fill="none" stroke="#2E388F" stroke-width="5" stroke-linejoin="round"/>
+  <!-- tail -->
+  <path d="M256,372 Q278,400 256,424 Q234,448 262,470" fill="none" stroke="#FF9F45" stroke-width="7" stroke-linecap="round"/>
+  <path d="M266,391 l7,7 -7,7 -7,-7 z" fill="#FF9F45"/>
+  <path d="M244,423 l7,7 -7,7 -7,-7 z" fill="#FF9F45"/>
+  <path d="M262,461 l7,7 -7,7 -7,-7 z" fill="#FF9F45"/>
+  <!-- string -->
+  <path d="M256,104 Q212,84 176,98" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140">
+  <!-- mini icon tile -->
+  <rect x="10" y="34" width="72" height="72" rx="18" fill="#4F5BD5"/>
+  <g transform="translate(46,70) scale(0.205)">
+    <polygon points="0,-104 0,0 -88,0" fill="#FFFFFF"/>
+    <polygon points="0,-104 0,0 88,0" fill="#AFC0FF"/>
+    <polygon points="-88,0 0,0 0,164" fill="#AFC0FF"/>
+    <polygon points="88,0 0,0 0,164" fill="#FFFFFF"/>
+    <polygon points="0,-104 88,0 0,164 -88,0" fill="none" stroke="#2E388F" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M0,164 Q22,196 0,222 Q-22,248 28,270" fill="none" stroke="#FF9F45" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <!-- wordmark: outline this text in a vector editor before shipping (font may not be installed everywhere) -->
+  <text x="104" y="92" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-2" fill="#1A1A2E">kite</text>
+</svg>
